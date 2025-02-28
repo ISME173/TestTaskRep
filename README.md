@@ -14,4 +14,4 @@
 - Запустите сцену
 
 ## Билд игры
-Скачать билд игры вы можете тут: [тык](https://disk.yandex.ru/d/YIRh1riObaS56Q)
+Скачать билд проекта вы можете тут: [тык](https://disk.yandex.ru/d/YIRh1riObaS56Q)
