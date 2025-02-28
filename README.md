@@ -8,4 +8,10 @@
 
 ## Как играть
 - Откройте проект в Unity 2022.3.14.f1
-- Перейдите на сцену: "Assets\_Project\Scenes\SampleScene.unity"
+- Перейдите на сцену:
+   ```bash
+   Assets\_Project\Scenes\SampleScene.unity
+- Запустите сцену
+
+## Билд игры
+Скачать билд игры вы можете тут: [тык](https://disk.yandex.ru/d/YIRh1riObaS56Q)
